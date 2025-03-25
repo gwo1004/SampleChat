@@ -45,8 +45,8 @@
 
 <details>
   <summary> 관련 학습 TIL 작성 링크</summary>
-  https://mynameiskgws.tistory.com/38
-  https://mynameiskgws.tistory.com/60
-  https://mynameiskgws.tistory.com/64
-  https://mynameiskgws.tistory.com/65
+  https://mynameiskgws.tistory.com/38 <br>
+  https://mynameiskgws.tistory.com/60 <br>
+  https://mynameiskgws.tistory.com/64 <br>
+  https://mynameiskgws.tistory.com/65 <br>
 </details>
