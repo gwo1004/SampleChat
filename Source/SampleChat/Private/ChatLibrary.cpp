@@ -35,8 +35,8 @@ bool UChatLibrary::ValidSubmitMessage(const FString& Message)
 		return false;
 	}
 
-	int32 Number = FCString::Atoi(*ValidNum);
-	GEngine->AddOnScreenDebugMessage(-1, 5.f, FColor::Red, TEXT("AtoI : ") + FString::FromInt(Number));
+	//int32 Number = FCString::Atoi(*ValidNum);
+	//GEngine->AddOnScreenDebugMessage(-1, 5.f, FColor::Red, TEXT("AtoI : ") + FString::FromInt(Number));
 
 
 	return true;
