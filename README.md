@@ -9,7 +9,7 @@
 
 ### 영상
 
-
+[Sparta Project 09]([Chat Listen Server](https://www.youtube.com/watch?v=5jxAF4k9qf4))
 
 ### PlayerController
   - Server : 클라이언트(유저)와 Network를 통한 통신을 하기위한 객체
@@ -45,4 +45,8 @@
 
 <details>
   <summary> 관련 학습 TIL 작성 링크</summary>
+  https://mynameiskgws.tistory.com/38
+  https://mynameiskgws.tistory.com/60
+  https://mynameiskgws.tistory.com/64
+  https://mynameiskgws.tistory.com/65
 </details>
